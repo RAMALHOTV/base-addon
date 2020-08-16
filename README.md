@@ -1,4 +1,4 @@
-# base-addon
+
 <layouttype>thumbnail</layouttype>
 
 <?xml version="1.0" encoding="UTF-8" standalone="no" ?>
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR blue][B]Canais de TV[/B][/COLOR]</name>
 <thumbnail>http://2.bp.blogspot.com/-8SA2vd4C9Rk/WWZHU7Zm-RI/AAAAAAAAA-s/m1XFGWTxq-8wPkY_V-xkofSAMpGtsxHcgCK4BGAYYCw/s1600/canais%2Bde%2Btv.png</thumbnail>
-<externallink>https://pastebin.com/raw/izgjXMjh</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-dos-canais-/master/README.md</externallink>
 <fanart>http://static.wixstatic.com/media/231d9e_42a5610f66ac4d30bf03f42f447fb221~mv2.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (LISTA DE CANAIS SEMPRE ATUALIZADA)</info>
 </channel>
@@ -31,7 +31,7 @@
 <channel>
 <name>[COLOR blue][B]Filmes[/B][/COLOR]</name>
 <thumbnail>https://4.bp.blogspot.com/-PKb3_nsKGxA/WWZHU0sIUfI/AAAAAAAAA-M/JiEWGVy7CwcgEn8n4rrDmE1qY7rEQ__WgCK4BGAYYCw/s400/filmes.png</thumbnail>
-<externallink>https://pastebin.com/raw/MsFLRpx7</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-dos-filmes-/master/README.md</externallink>
 <fanart>http://cdn.kaltura.com/p/0/thumbnail/entry_id/0_2qpmnxso/quality/80/width//height//src_x//src_y//src_w/NaN/src_h/NaN/vid_sec/0.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (FILMES NOVOS TODOS OS DIAS)</info>
 </channel>
