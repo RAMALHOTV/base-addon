@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR blue][B]Series[/B][/COLOR]</name>
 <thumbnail>http://4.bp.blogspot.com/-z8A1WR6-MTg/WWZHUwO0WRI/AAAAAAAAA-o/0t4xNAD57cgTDCrgkKRdpWCNtPK8jPg5QCK4BGAYYCw/s1600/series.png</thumbnail>
-<externallink>https://pastebin.com/raw/5w14BR2X</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-das-series-/master/README.md</externallink>
 <fanart>http://i.imgur.com/vOhPC6L.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (TODAS AS SERIES VC ENCONTRA AQUI)</info>
 </channel>
