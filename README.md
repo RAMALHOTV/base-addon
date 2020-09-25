@@ -83,6 +83,13 @@
 <fanart>https://statig0.akamaized.net/bancodeimagens/3t/oh/5a/3toh5a65tk4p1i21ch5e4hryu.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (Para relenbrar os Felhos Tempo) </info>
 </channel>
-
-
+</channels>
+<channels>
+<channel>
+<name>[COLOR gold][B]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR crimson]|||[/COLOR] [COLOR white]TOP CINE[/COLOR][COLOR crimson]|||[/COLOR][COLOR lime]|||[/COLOR][COLOR gold]|||[/B][/COLOR]</name>
+<thumbnail>https://imagem.band.com.br/CNT_EXT_328670.jpg</thumbnail>
+<externallink>https://pastebin.com/raw/Nk6NG9PA</externallink>
+<fanart>https://image.winudf.com/v2/image1/Y29tLnRvcGNpbmVfc2NyZWVuXzBfMTU1NTExMTU5OF8wMjA/screen-0.jpg?fakeurl=1&type=.jpg</fanart>
+<info>[COLOR white]BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI)[COLOR white][/COLOR]</info>
+</channel>
 </channels>
