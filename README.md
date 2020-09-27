@@ -85,10 +85,10 @@
 </channel>
 </channels>
 <channel>
-<name>[COLOR blue][B]TOP CINE FILMES[/B][/COLOR]</name>
-<thumbnail>https://imagem.band.com.br/CNT_EXT_328670.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/Nk6NG9PA</externallink>
-<fanart>https://image.winudf.com/v2/image1/Y29tLnRvcGNpbmVfc2NyZWVuXzBfMTU1NTExMTU5OF8wMjA/screen-0.jpg?fakeurl=1&type=.jpg</fanart>
+<name>[COLOR blue][B] FILMES Torrent[/B][/COLOR]</name>
+<thumbnail>https://a.imagem.app/OIDk8.png</thumbnail>
+<externallink>https://pastebin.com/raw/600zLWrA</externallink>
+<fanart>https://a.imagem.app/OIDk8.png</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
 </channel>
 </channels>
