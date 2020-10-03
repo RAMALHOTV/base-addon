@@ -87,7 +87,7 @@
 <channel>
 <name>[COLOR blue][B] FILMES Torrent[/B][/COLOR]</name>
 <thumbnail>https://a.imagem.app/OIDk8.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/FILMES-TORENTE/master/README.md</externallink>
+<externallink>https://pastebin.com/raw/P26E38QX</externallink>
 <fanart>https://a.imagem.app/OIDk8.png</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
 </channel>
