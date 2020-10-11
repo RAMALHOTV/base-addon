@@ -83,13 +83,4 @@
 <fanart>https://statig0.akamaized.net/bancodeimagens/3t/oh/5a/3toh5a65tk4p1i21ch5e4hryu.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (Para relenbrar os Felhos Tempo) </info>
 </channel>
-</channels>
-<channel>
-<name>[COLOR blue][B] FILMES Torrent[/B][/COLOR]</name>
-<thumbnail>https://a.imagem.app/OIDk8.png</thumbnail>
-<externallink>https://pastebin.com/raw/P26E38QX</externallink>
-<fanart>https://a.imagem.app/OIDk8.png</fanart>
-<info>BigBazTecnologia criador do ADDON -- DIRCEU (OS MELHORES FILMES (NACIONAIS E INTERNACIONAIS)NOVOS E ANTIGOS VOCES ENCONTRARÃO AQUI) </info>
-</channel>
-</channels>
 
