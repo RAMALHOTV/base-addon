@@ -79,7 +79,7 @@
 <channel>
 <name>[COLOR blue][B]Novelas[/B][/COLOR]</name>
 <thumbnail>https://www.clicrbs.com.br/blog/fotos/64077post_foto.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/novelas-/main/README.md</externallink>
+<externallink>https://pastebin.com/raw/VF4WPq1b</externallink>
 <fanart>https://statig0.akamaized.net/bancodeimagens/3t/oh/5a/3toh5a65tk4p1i21ch5e4hryu.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (Para relenbrar os Felhos Tempo) </info>
 </channel>
