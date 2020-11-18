@@ -42,19 +42,11 @@
 <channel>
 <name>[COLOR blue][B]Desenhos[/B][/COLOR]</name>
 <thumbnail>http://2.bp.blogspot.com/-_pzXtNw4VHE/WWZHU0Y2JqI/AAAAAAAAA-Y/5DgUqiqL0kskbXkMM5nRKKfWyQrCu6hQQCK4BGAYYCw/s1600/desenhos.png</thumbnail>
-<externallink>https://pastebin.com/raw/DFFuEAd8</externallink>
+<externallink>https://pastebin.com/raw/sSUywmPn</externallink>
 <fanart>https://2.bp.blogspot.com/-t92TE339P-M/Vx9dii618iI/AAAAAAAAAdI/Jwmg-Y-NuDkZOaIX_sPAbeHc0XsDZoTTgCLcB/s1600/desenhos.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (AQUI VC ENCONTRA DESENHOS DE TODAS AS ÉPOCAS) </info>
 </channel>
 
-
-<channel>
-<name>[COLOR blue][B]Videos[/B][/COLOR]</name>
-<thumbnail>http://1.bp.blogspot.com/-RwIZYajdxPY/WWZHUyFxo_I/AAAAAAAAA-4/QsZp6cHgHOUw62ahwcz1WiGS-yssZoIvQCK4BGAYYCw/s1600/clipes.png</thumbnail>
-<externallink>https://pastebin.com/raw/sSUywmPn</externallink>
-<fanart>http://www.riosindicoprof.com.br/wp-content/uploads/2017/02/VIDEOS.jpg</fanart>
-<info>BigBazTecnologia criador do ADDON -- DIRCEU (SHOWS E LIVE SERTANEJA)</info>
-</channel>
 
 
 
