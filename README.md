@@ -54,7 +54,7 @@
 <channel>
 <name>[COLOR blue][B]Youtube[/B][/COLOR]</name>
 <thumbnail>http://4.bp.blogspot.com/-twWkFBTrmHA/WWZHU7D0OfI/AAAAAAAAA_M/7qx6WPzVn_An9UHFysky_IlwNdshVQo7ACK4BGAYYCw/s1600/youtube.png</thumbnail>
-<externallink>https://pastebin.com/raw/phgfNeqV</externallink>
+<externallink>https://pastebin.com/raw/KpbYZXib</externallink>
 <fanart>https://cdn2.hubspot.net/hubfs/2295831/maxresdefault-6.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (AQUI VC ENCONTRA O MELHOR DO YOUTUBE)</info>
 </channel>
