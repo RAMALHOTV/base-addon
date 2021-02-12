@@ -69,10 +69,10 @@
 
 
 <channel>
-<name>[COLOR blue][B]Novelas[/B][/COLOR]</name>
-<thumbnail>https://www.clicrbs.com.br/blog/fotos/64077post_foto.jpg</thumbnail>
-<externallink>https://pastebin.com/raw/VF4WPq1b</externallink>
-<fanart>https://statig0.akamaized.net/bancodeimagens/3t/oh/5a/3toh5a65tk4p1i21ch5e4hryu.jpg</fanart>
+<name>[COLOR blue][B]DWIGHT FARROKH LISTAS[/B][/COLOR]</name>
+<thumbnail>https://i.imgur.com/QXwjJNI.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/DWIGHT-FARROKH-LISTAS/main/README.md</externallink>
+<fanart>https://i.imgur.com/QXwjJNI.png</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (Para relenbrar os Felhos Tempo) </info>
 </channel>
 
