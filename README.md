@@ -68,11 +68,5 @@
 </channel>
 
 
-<channel>
-<name>[COLOR blue][B]DWIGHT FARROKH LISTAS[/B][/COLOR]</name>
-<thumbnail>https://i.imgur.com/QXwjJNI.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/RAMALHOTV/DWIGHT-FARROKH-LISTAS/main/README.md</externallink>
-<fanart>https://i.imgur.com/QXwjJNI.png</fanart>
-<info>BigBazTecnologia criador do ADDON -- DIRCEU (Para relenbrar os Felhos Tempo) </info>
-</channel>
+
 
