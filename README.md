@@ -42,7 +42,7 @@
 <channel>
 <name>[COLOR blue][B]Desenhos[/B][/COLOR]</name>
 <thumbnail>http://2.bp.blogspot.com/-_pzXtNw4VHE/WWZHU0Y2JqI/AAAAAAAAA-Y/5DgUqiqL0kskbXkMM5nRKKfWyQrCu6hQQCK4BGAYYCw/s1600/desenhos.png</thumbnail>
-<externallink>https://pastebin.com/raw/sSUywmPn</externallink>
+<externallinkhttps://raw.githubusercontent.com/RAMALHOTV/desenhos/main/README.md</externallink>
 <fanart>https://2.bp.blogspot.com/-t92TE339P-M/Vx9dii618iI/AAAAAAAAAdI/Jwmg-Y-NuDkZOaIX_sPAbeHc0XsDZoTTgCLcB/s1600/desenhos.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (AQUI VC ENCONTRA DESENHOS DE TODAS AS ÉPOCAS) </info>
 </channel>
