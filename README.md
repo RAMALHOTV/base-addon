@@ -62,7 +62,7 @@
 <channel>
 <name>[COLOR blue][B]Chaves[/B][/COLOR]</name>
 <thumbnail>http://3.bp.blogspot.com/-dMZaOTQNspc/WXoLabB9z2I/AAAAAAAABDA/QL6ETcM7ip004eX_keLWDVH2QKPPxfRqACK4BGAYYCw/s1600/CHAVES.png</thumbnail>
-<externallink>https://pastebin.com/raw/mGg0Xyq1</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/Chaves-em-Desenho/main/README.md</externallink>
 <fanart>http://forumchaves.com.br/site/wp-content/uploads/2013/01/chaves-desenho-animado.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (PARA TODOS QUE E FÃ COMO EU KKKK) </info>
 </channel>
