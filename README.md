@@ -22,7 +22,7 @@
 <channel>
 <name>[COLOR blue][B]Series[/B][/COLOR]</name>
 <thumbnail>http://4.bp.blogspot.com/-z8A1WR6-MTg/WWZHUwO0WRI/AAAAAAAAA-o/0t4xNAD57cgTDCrgkKRdpWCNtPK8jPg5QCK4BGAYYCw/s1600/series.png</thumbnail>
-<externallinkhttps://raw.githubusercontent.com/RAMALHOTV/base-series/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/base-series/main/README.md</externallink>
 <fanart>http://i.imgur.com/vOhPC6L.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (TODAS AS SERIES VC ENCONTRA AQUI)</info>
 </channel>
@@ -42,7 +42,7 @@
 <channel>
 <name>[COLOR blue][B]Desenhos[/B][/COLOR]</name>
 <thumbnail>http://2.bp.blogspot.com/-_pzXtNw4VHE/WWZHU0Y2JqI/AAAAAAAAA-Y/5DgUqiqL0kskbXkMM5nRKKfWyQrCu6hQQCK4BGAYYCw/s1600/desenhos.png</thumbnail>
-<externallinkhttps://raw.githubusercontent.com/RAMALHOTV/desenhos/main/README.md</externallink>
+<externallink>https://raw.githubusercontent.com/RAMALHOTV/desenhos/main/README.md</externallink>
 <fanart>https://2.bp.blogspot.com/-t92TE339P-M/Vx9dii618iI/AAAAAAAAAdI/Jwmg-Y-NuDkZOaIX_sPAbeHc0XsDZoTTgCLcB/s1600/desenhos.jpg</fanart>
 <info>BigBazTecnologia criador do ADDON -- DIRCEU (AQUI VC ENCONTRA DESENHOS DE TODAS AS ÉPOCAS) </info>
 </channel>
