@@ -5,7 +5,7 @@
 
 
 <channel>
-<name>[B][COLOR lime]•[/COLOR] [COLOR yellow]RAMALHOTV[/COLOR][/B]</name>
+<name>[B][COLOR lime]•[/COLOR] [COLOR yellow]BEM VINDOS AO RAMALHOIPTV[/COLOR][/B]</name>
 <externallink>http://RAMALHOTV</externallink>
 <genre>Canais Fechados , Abertos, Filmes, Séries ,Novelas e muito mais</genre>
 <info>[COLOR yellow]Assine nossa Lista Premium Sem travas,pedidos [/COLOR][B][COLOR lime]WhatsApp: (44)998656144[/COLOR][/B]</info>
