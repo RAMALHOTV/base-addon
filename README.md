@@ -4,14 +4,7 @@
 <channels>
 
 
-<channel>
-<name>[B][COLOR lime]•[/COLOR] [COLOR yellow]BEM VINDOS AO RAMALHOIPTV[/COLOR][/B]</name>
-<externallink>http://RAMALHOTV</externallink>
-<genre>Canais Fechados , Abertos, Filmes, Séries ,Novelas e muito mais</genre>
-<info>[COLOR yellow]Assine nossa Lista Premium Sem travas,pedidos [/COLOR][B][COLOR lime]WhatsApp: (44)998656144[/COLOR][/B]</info>
-<fanart>https://wallpaperaccess.com/full/2074891.jpg</fanart>
-<thumbnail>https://dicas.zone/wp-content/uploads/2019/12/kodi.png</thumbnail>
-</channel>
+
 
 
 
